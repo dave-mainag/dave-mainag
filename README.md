@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dave-mainag
+- 👋 Hi, I’m David Githaiga
 - 👀 I’m interested in R for statistics, data science, and bioinformatics skills for solving healthcare challenges
 - 🌱 I’m currently learning Python and genomics data science 
 - 💞️ I’m looking to collaborate on bioinformatics projects
