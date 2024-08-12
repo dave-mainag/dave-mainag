@@ -1,6 +1,7 @@
 # Hi, I’m David Githaiga 👋 
 ![Profile Pic](images/business-card.png)
 
+
 # Bio
 Data science with a specialization in bioinformatics is my passion. I’m a critical and analytical thinker, which makes this field particularly well-suited to me, as it requires logical problem-solving and computational skills. I have a strong affinity for both R and Python; R is a robust statistical tool, while Python is a versatile and powerful programming language.
 
