@@ -1,5 +1,5 @@
 # Hi, I’m David Githaiga 👋 
-![Profile Pic](images/about-me.png)
+![Profile Pic](images/profile_pic.png)
 
 
 # Bio
